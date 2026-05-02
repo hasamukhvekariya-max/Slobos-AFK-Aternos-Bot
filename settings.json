@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "HOUZAR_FORCE_0109.aternos.me",
+    "port": 17493,
+    "version": "1.12.1",
     "try-creative": false
   },
   "position": {
